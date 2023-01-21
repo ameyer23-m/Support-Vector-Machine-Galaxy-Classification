@@ -1,5 +1,5 @@
 # Support-Vector-Machine-Galaxy-Classification
-This is the code for investigating Galaxy Classification using support vector machines. I created models using rbf, linear, and ploynomial kernels and C
+This is the code for investigating Galaxy Classification using support vector machines. I created models using rbf, linear, and ploynomial kernels and C levels 1.0, 10.0, 50.0, 100.0, and 1000.0.
 
 ***Conclusions***
 Our best model comes from the support vector machine model with a rbf kernel and C = 50.0. The accuacy when predicted on the testing set is 86%.
